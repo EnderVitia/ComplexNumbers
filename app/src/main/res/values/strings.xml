@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Мнимые числа</string>
+    <string name="ButtonString">Сосчитать</string>
+    <string name="PlusString">+</string>
+    <string name="iString">i;</string>
+    <string name="CoordXHintString">действительное число</string>
+    <string name="Label1String">Введите число и степень</string>
+    <string name="DegreeString">степень</string>
+    <string name="CoordYSting">мнимое число</string>
+    <string name="MinusString">-</string>
+    <string name="MultiplyString">*</string>
+    <string-array name="Functions">
+        <item>Сложение</item>
+        <item>Вычитание</item>
+        <item>Умножение</item>
+        <item>Деление</item>
+        <item>Возведение в степень</item>
+        <item>Извлечение из корня</item>
+    </string-array>
+</resources>
